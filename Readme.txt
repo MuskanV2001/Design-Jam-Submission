@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Design Jam Submission
 
-Template Name: Scaffold
-Template URL: https://bootstrapmade.com/scaffold-bootstrap-metro-style-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This project is a website on the biography of a person who inspires me the most.
